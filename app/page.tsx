@@ -1,9 +1,10 @@
-import { Hero } from "@/components/Hero";
+
 // import  FeaturesSectionDemo  from "@/components/features-section-demo-2"
-import { WorkshopForm } from "@/components/WorkshopForm";
-import { Services } from "@/components/Services";
-import { Gallery } from "@/components/Gallery";
+import { WorkshopForm } from "../components/WorkshopForm";
+import { Services } from "../components/Services";
+import { Gallery } from "../components/Gallery";
 import 'material-symbols/outlined.css';
+import { Hero } from "../components/Hero";
 
 export default function Home() {
   return (
