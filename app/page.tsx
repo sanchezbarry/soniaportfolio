@@ -9,7 +9,7 @@ import { Hero } from "../components/Hero";
 export default function Home() {
   return (
     <>
-      <main className="flex-1 flex flex-col items-center w-full">
+      <main className="flex-1 flex flex-col items-center  w-full">
         <Hero />
         <Services />
         <Gallery />
