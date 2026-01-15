@@ -4,7 +4,7 @@ import { WorkshopForm } from "../components/WorkshopForm";
 import { Services } from "../components/Services";
 import { Gallery } from "../components/Gallery";
 import 'material-symbols/outlined.css';
-import { Hero } from "../components/Hero";
+import { Hero } from "../components/Hero2";
 
 export default function Home() {
   return (
