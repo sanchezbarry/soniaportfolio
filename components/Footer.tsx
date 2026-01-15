@@ -3,7 +3,7 @@ import React from 'react';
 import 'material-icons/iconfont/material-icons.css';
 
 
-export const Footer: React.FC = () => {
+export function Footer() {
   return (
     <footer className="w-full border-t border-[#e6e2db] dark:border-[#3a352a] bg-white dark:bg-[#1a160d] py-12 px-6 lg:px-20">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-6">

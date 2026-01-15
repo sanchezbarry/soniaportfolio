@@ -28,7 +28,7 @@ const steps = [
   }
 ];
 
-export const Services: React.FC = () => {
+export function Services() {
   return (
     <section className="w-full max-w-7xl px-6 lg:px-20 py-24">
       <div className="flex flex-col items-center mb-16 text-center">

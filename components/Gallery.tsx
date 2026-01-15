@@ -28,7 +28,7 @@ const galleryItems = [
   }
 ];
 
-export const Gallery: React.FC = () => {
+export function Gallery() {
   return (
     <section className="w-full px-6 lg:px-20 py-12 lg:pb-32">
       <div className="max-w-7xl mx-auto">

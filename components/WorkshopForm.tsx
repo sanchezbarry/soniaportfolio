@@ -1,7 +1,7 @@
 
 // import React, { useState } from 'react';
 
-export const WorkshopForm: React.FC = () => {
+export function WorkshopForm() {
   // const [guests, setGuests] = useState(1);
 
   return (

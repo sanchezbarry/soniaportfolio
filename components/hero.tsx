@@ -1,7 +1,7 @@
 
 import React from 'react';
 
-export const Hero: React.FC = () => {
+export function Hero() {
   return (
     <section className="w-full max-w-7xl px-6 lg:px-20 py-12 lg:py-20">
       <div className="grid lg:grid-cols-2 gap-12 items-center">
